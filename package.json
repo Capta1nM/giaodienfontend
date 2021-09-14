@@ -7,6 +7,7 @@
     "homepage": "https://github.com/vkovic/uikit-computer-store-template",
     "main": "index.html",
     "scripts": {
+        "start": "node ./src/templates/layouts/_index.pug",
         "build": "gulp build"
     },
     "repository": {
