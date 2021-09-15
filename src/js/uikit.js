@@ -1,1 +1,1 @@
-//=require ../../node_modules/uikit/dist/js/uikit.jsgit init
+//=require ../../node_modules/uikit/dist/js/uikit.js
